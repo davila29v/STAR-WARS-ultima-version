@@ -10,7 +10,7 @@ export const Home = () => {
 					<Link to="/characters">
 						<img
 							className="d-block w-100"
-							src="https://images4.alphacoders.com/673/thumb-1920-673740.jpg"
+							src="https://runningmagazine.ca/wp-content/uploads/2015/12/star-wars.jpg"
 							alt="Characters"
 						/>
 					</Link>
